@@ -1,0 +1,26 @@
+# Archivos de dependencias y de Node.js
+/node_modules
+npm-debug.log
+.npm/
+
+# Archivos de build y transpilación
+/dist
+/build
+/out
+
+# Variables de entorno y archivos de configuración
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Archivos temporales y de editor de código
+.DS_Store
+*.log
+*.tmp
+*.swp
+.vscode/
+
+# Archivos de sistema
+Thumbs.db
