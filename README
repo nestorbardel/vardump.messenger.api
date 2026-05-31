@@ -1,0 +1,7 @@
+Siempre que debamos subir a produccion debemos enviar los siguientes archivos:
+dist 
+package.json 
+package-lock.json 
+Dockerfile 
+docker-compose.yml 
+.env 
